@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "128775860684",
+    "firebase_url": "https://digital-fotos-56293.firebaseio.com",
+    "project_id": "digital-fotos-56293",
+    "storage_bucket": "digital-fotos-56293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128775860684:android:01120af75d9996e8",
+        "android_client_info": {
+          "package_name": "com.example.aula_01.digitalfotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128775860684-fufte442k0dlmcpiqu2na2rs6vb1md6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aula_01.digitalfotos",
+            "certificate_hash": "715bf7934dd5912c5dd96decb5aab5a7de1d90dd"
+          }
+        },
+        {
+          "client_id": "128775860684-tm99143tbk5pqrulb3ob0iejq9r79ajv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC1WPCNuGij4XQQuJrkLRiKcH8b2FJ-RU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128775860684-tm99143tbk5pqrulb3ob0iejq9r79ajv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
